@@ -1,0 +1,57 @@
+# Site settings
+course_name: Data Science Capstone Project
+course_description: "This Data Science Capstone aims to focus on the practical aspect of data science in the real world. In the capstone, students will learn to engage on a real-world project requiring them to apply skills from the entire data science pipeline: preparing, organizing, and transforming data, constructing a model, and evaluating results. Moreover, advanced modeling methods, including neural networks and gradient boosting, will also be covered."
+course_semester: "Spring 2022"
+
+baseurl: "/nsysu-math604/" # the subpath of your site, e.g. /blog/
+url: "https://phonchi.github.io/" # the base hostname & protocol for your site
+
+schoolname: "National Sun Yat-Sen University"
+schoolurl: "https://www.nsysu.edu.tw/"
+#twitter_username: username 
+
+address: |
+    No.70 Lien-hai Rd., Kaohsiung 80424, 
+    Taiwan
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
+  - scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"
+
