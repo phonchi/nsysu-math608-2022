@@ -18,7 +18,9 @@ permalink: /materials/
 ### Collection
 * [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
 * [Best of ML Python](https://github.com/ml-tooling/best-of-ml-python)
-* [Awesome datascience](https://github.com/academic/awesome-datascience)
+* [Awesome python datascience](https://github.com/krzjoa/awesome-python-data-science)
+* [Basic skills](https://e2eml.school/blog.html)
+* [Made with ML](https://madewithml.com/)
 * [AtHomeWithAI](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
 
 ### Environment
@@ -28,6 +30,7 @@ permalink: /materials/
 * [Google Compute Platform](https://cloud.google.com/compute/?hl=zh-tw&utm_source=google&utm_medium=cpc&utm_campaign=japac-TW-all-en-dr-bkws-all-super-trial-e-dr-1009882&utm_content=text-ad-none-none-DEV_c-CRE_505011867580-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Compute%20~%20Compute%20Engine_Global%20gap%20analysis-KWID_43700060665793260-aud-970366092687%3Akwd-79074740958&userloc_9040321-network_g&utm_term=KW_google%20compute%20platform&gclid=Cj0KCQiAxoiQBhCRARIsAPsvo-w6mftRVH4i5i0CzYvKrwngH0vPrsJubKHnVVvteKCtX3e531tx1AAaAjrBEALw_wcB&gclsrc=aw.ds)
 
 ## MOOC or lectures
+* [Deep learning](https://github.com/leemengtaiwan/deep-learning-resources)
 * [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
 * [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners)
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
@@ -48,12 +51,15 @@ permalink: /materials/
 
 ### Learning Python
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
+* [Python tutorial from madewithml](https://madewithml.com/courses/foundations/python/)
 * [Kaggle Python tutorial](https://www.kaggle.com/learn/python)
 * [Python for everybody](https://www.py4e.com/)
+* [Python tutorial collections](https://e2eml.school/python_resources.html)
 * [Python 台灣社群](http://python.org.tw/Python/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%94%A8%E5%B0%B1%E4%B8%8A%E6%89%8B)
-* [Python scientific computing](https://scipy-lectures.org/)
 
 ### Learning Python libraries
+* [Python scientific computing](https://scipy-lectures.org/)
+* [Data manipulation](https://www.mit.edu/~amidi/teaching/data-science-tools/)
 * [NumPy for R user](http://mathesaurus.sourceforge.net/r-numpy.html)
 * [NumPy for Matlab user](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
