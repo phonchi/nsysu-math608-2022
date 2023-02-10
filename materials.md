@@ -32,9 +32,9 @@ permalink: /materials/
 ## MOOC or lectures
 * [Virgilio](https://virgili0.github.io/Virgilio/#table-of-contents)
 * [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
+* [Full Stack Deep learning](https://fullstackdeeplearning.com/spring2021/)
 * [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners)
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
-* [Kaggle Course](https://firefortysix.com/2022/01/12/another-thirty-days-of-machine-learning-with-kaggle-part-1/amp/)
 * [Stanford CS229: Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * [NSYSU Statistical Learning and Data Mining](https://phonchi.github.io/nsysu-math524/)
 * [Dive into deep learning](https://d2l.ai/)
@@ -58,18 +58,21 @@ permalink: /materials/
 * [Python for everybody](https://www.py4e.com/)
 * [Python tutorial collections](https://e2eml.school/python_resources.html)
 * [Python 台灣社群](http://python.org.tw/Python/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%94%A8%E5%B0%B1%E4%B8%8A%E6%89%8B)
+* [NumPy for R user](http://mathesaurus.sourceforge.net/r-numpy.html)
+* [NumPy for Matlab user](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
 
 ### Learning Python libraries
 * [Python scientific computing](https://scipy-lectures.org/)
 * [Data manipulation](https://www.mit.edu/~amidi/teaching/data-science-tools/)
-* [NumPy for R user](http://mathesaurus.sourceforge.net/r-numpy.html)
-* [NumPy for Matlab user](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Python for Data Analysis](https://github.com/wesm/pydata-book)
+* [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book)
 
 ### Learning Markdown
 * [CommonMark](https://commonmark.org/)
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/markdown/)
+* [Hackmd](https://hackmd.io/features-tw?both)
+* [mdeditor](https://www.mdeditor.tw/)
 
 ## Libraries
 
@@ -86,6 +89,7 @@ permalink: /materials/
 * [Tensorflow](https://www.tensorflow.org/)
 * [Keras](https://keras.io/)
 * [Pytorch](https://pytorch.org/)
+* [fastai](https://docs.fast.ai/)
 
 ### Low-code machine learning
 * [PyCaret](https://pycaret.gitbook.io/docs/)
