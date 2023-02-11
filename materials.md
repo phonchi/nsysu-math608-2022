@@ -63,7 +63,9 @@ permalink: /materials/
 
 ### Learning Python libraries
 * [Python scientific computing](https://scipy-lectures.org/)
-* [Data manipulation](https://www.mit.edu/~amidi/teaching/data-science-tools/)
+* [Data manipulation cheatsheet](https://www.mit.edu/~amidi/teaching/data-science-tools/)
+* [Pandas tutorial](https://leemeng.tw/practical-pandas-tutorial-for-aspiring-data-scientists.html)
+* [Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Python for Data Analysis](https://github.com/wesm/pydata-book)
 * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book)
