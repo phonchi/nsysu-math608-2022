@@ -13,6 +13,7 @@ links:
 **Suggested Readings:**
 - [Lab](https://github.com/phonchi/nsysu-math608/blob/master/static_files/presentations/01_end_to_end_machine_learning_project.ipynb)
 - HMST Chapter 1 and Chapter 2
+- [ML Project check list](https://github.com/ageron/handson-ml3/blob/main/ml-project-checklist.md)
 - [NumPy tutorial](/nsysu-math608/static_files/presentations/NumPy_tutorial.ipynb)
 - [Colab tutorial](/nsysu-math608/static_files/presentations/Colab_tutorial.ipynb)
 - [Kaggle tutorial](/nsysu-math608/static_files/presentations/kaggle-explore.ipynb)
