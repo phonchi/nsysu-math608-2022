@@ -18,5 +18,6 @@ links:
 - [Kaggle tutorial](/nsysu-math608/static_files/presentations/kaggle-explore.ipynb)
 - [Video for NumPy](https://www.youtube.com/watch?v=FdOXitfYshw&list=PLHNZtBNWQ-87x20x0lTo26AJiCOUJ8YqP&index=1)
 - [Video for Colab/Kaggle](https://www.youtube.com/playlist?list=PLHNZtBNWQ-85w9-qNWualJZrtojRNXqkE)
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-879J4jHW325_WLQMF-E9kdh)
 
 
