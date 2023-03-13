@@ -15,3 +15,4 @@ links:
 - [Tour of Data Preparation Techniques for Machine Learning](https://machinelearningmastery.com/data-preparation-techniques-for-machine-learning/)
 - [Label errors](https://dcai.csail.mit.edu/lectures/label-errors/)
 - HMST Chapter 1
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-87N0rZD0aHtPbz7zL-L1zAK)
