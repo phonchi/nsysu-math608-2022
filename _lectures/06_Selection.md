@@ -11,6 +11,6 @@ links:
       
 ---
 **Suggested Readings:**
-- [Lab](https://github.com/phonchi/nsysu-math608/blob/master/static_files/presentations/04_Clean_feature_engineering.ipynb)
+- [Lab](https://github.com/phonchi/nsysu-math608/blob/master/static_files/presentations/05_Feature_selection_extraction.ipynb)
 - [How to Choose a Feature Selection Method For Machine Learning](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)
 - HMST Chapter 8, 9
