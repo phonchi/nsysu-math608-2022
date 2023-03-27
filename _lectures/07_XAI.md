@@ -14,3 +14,4 @@ links:
 - [Lab](https://github.com/phonchi/nsysu-math608/blob/master/static_files/presentations/06_XAI.ipynb)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [Interpretability in Data-Centric ML](https://dcai.csail.mit.edu/lectures/interpretable-features/)
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-85xpmYC9CNFHoJSCEyin6rS)
