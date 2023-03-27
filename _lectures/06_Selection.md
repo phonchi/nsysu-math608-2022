@@ -14,3 +14,4 @@ links:
 - [Lab](https://github.com/phonchi/nsysu-math608/blob/master/static_files/presentations/05_Feature_selection_extraction.ipynb)
 - [How to Choose a Feature Selection Method For Machine Learning](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)
 - HMST Chapter 8, 9
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-85vqHvoI9d_X7CDeWLwuOCD)
