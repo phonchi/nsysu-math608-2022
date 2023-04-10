@@ -8,6 +8,7 @@ permalink: /materials/
 
 ## Book
 
+* [Companion book](https://phonchi.github.io/PDS_book/)
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
 * [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://github.com/fastai/fastbook2e)
 * [Reference solution for the exercise (Python)](https://github.com/ageron/handson-ml3)
