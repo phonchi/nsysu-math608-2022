@@ -12,3 +12,5 @@ description: 'Please hand in your code and report through cyber university. Noti
 - [[Notice]](/nsysu-math608/static_files/presentations/Final_notice.pdf)
 - [[Reference Notebook - Kaggle]](/nsysu-math608/static_files/presentations/final-sample-notebook.ipynb)
 - [[Reference Notebook - Colab]](/nsysu-math608/static_files/presentations/final-sample-notebook_colab.ipynb)
+- [[Mapping.csv]](/nsysu-math608/static_files/presentations/mappings.csv)
+- [[sample_submission.csv]](/nsysu-math608/static_files/presentations/sample_submission.csv)
