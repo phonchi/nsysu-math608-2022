@@ -1,5 +1,5 @@
  hw_policies:
   - Please hand in the homework via the assignment center in the cyber university.
-  - For the midterm project please hand in your code in "ipynb" or "py" file asscociated with the checkpoints.
+  - For the midterm and final project please hand in your code in "ipynb" or "py" file asscociated with the checkpoints.
   - Please hand in your assignment with either "ipynb" or "pdf" file.
   - Be sure to show all the outputs and expand all the sections for each cell before handing in the assignment. If you want to hand in a PDF file, you can use the print function in the Jupyter notebook.
