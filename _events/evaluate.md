@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2023-05-15
+date: 2023-05-15T11:40
 description: 'Student Evaluation questionnaire'
 hide_from_announcments: true
 ---
