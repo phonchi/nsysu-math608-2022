@@ -13,3 +13,4 @@ links:
 **Suggested Readings:**
 - [Lab](https://github.com/phonchi/nsysu-math608/blob/master/static_files/presentations/10_Recurrent_Neural_Networks.ipynb)
 - HMST Chpater 15, 16
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-871nWW3vI1hsLcPjk9YvxSw)
