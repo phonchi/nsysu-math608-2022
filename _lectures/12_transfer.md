@@ -13,3 +13,4 @@ links:
 **Suggested Readings:**
 - [Lab](https://github.com/phonchi/nsysu-math608/blob/master/static_files/presentations/11_Transfer_learning.ipynb)
 - HMST Chpater 11, 14
+ - [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-84f0BfMLZRj2z7UM6EHgJeG)
