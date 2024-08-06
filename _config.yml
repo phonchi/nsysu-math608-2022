@@ -3,7 +3,7 @@ course_name: Practical and Innovative Analytics in Data Science
 course_description: "	This course focuses on the practical aspect of data science in the real world. In the course, students will learn to engage in a real-world project requiring them to apply skills from the entire data science pipeline: preparing, organizing, and transforming data, constructing a model, and evaluating results. Moreover, high-level descriptions of how to apply deep learning for computer vision and natural language problems will also be covered."
 course_semester: "Spring 2023"
 
-baseurl: "/nsysu-math608" # the subpath of your site, e.g. /blog/
+baseurl: "/nsysu-math608-2022" # the subpath of your site, e.g. /blog/
 url: "https://phonchi.github.io/" # the base hostname & protocol for your site
 
 schoolname: "National Sun Yat-Sen University"
