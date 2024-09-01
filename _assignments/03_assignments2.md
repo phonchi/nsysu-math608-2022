@@ -3,7 +3,7 @@ type: assignment
 date: 2023-04-07T12:00
 title: 'Assignment #2'
 attachment: /static_files/assignments/PDS_Assignment2.ipynb
-solutions: /static_files/assignments/PDS_Assignment2_sol.ipynb
+
 
 due_event: 
     type: due
