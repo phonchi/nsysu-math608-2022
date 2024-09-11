@@ -11,7 +11,7 @@ links:
       
 ---
 **Suggested Readings:**
-- [Lab](https://github.com/phonchi/nsysu-math608/blob/master/static_files/presentations/07_Deploy.ipynb)
+- [Lab](https://github.com/phonchi/nsysu-math608-2022/blob/master/static_files/presentations/07_Deploy.ipynb)
 - HMST Chpater 19
 - [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-85-3c1XmoLB2Oku9goIuf3c)
 
