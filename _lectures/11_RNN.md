@@ -11,7 +11,7 @@ links:
       
 ---
 **Suggested Readings:**
-- [Lab](https://github.com/phonchi/nsysu-math608/blob/master/static_files/presentations/10_Recurrent_Neural_Networks.ipynb)
+- [Lab](https://github.com/phonchi/nsysu-math608-2022/blob/master/static_files/presentations/10_Recurrent_Neural_Networks.ipynb)
 - [AttentionViz](https://catherinesyeh.github.io/attn-docs/)
 - [BertViz](https://github.com/jessevig/bertviz)
 - HMST Chpater 15, 16
