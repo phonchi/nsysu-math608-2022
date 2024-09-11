@@ -11,7 +11,7 @@ links:
       
 ---
 **Suggested Readings:**
-- [Lab](https://github.com/phonchi/nsysu-math608/blob/master/static_files/presentations/12_Representation_learning.ipynb)
+- [Lab](https://github.com/phonchi/nsysu-math608-2022/blob/master/static_files/presentations/12_Representation_learning.ipynb)
 - HMST Chpater 17
 - [GAN Lab](https://poloclub.github.io/ganlab/)
 - [Difussion Explainer](https://poloclub.github.io/diffusion-explainer/)
